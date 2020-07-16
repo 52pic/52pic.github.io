@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>52图资源</title>
+    <link href="https://52pic.github.io/feed.xml" rel="self" />
+    <link href="https://52pic.github.io" />
+    <updated>1970-01-01T08:00:00+08:00</updated>
+    <author>
+        <name>52pic</name>
+    </author>
+    <id>https://52pic.github.io</id>
+
+    <entry>
+        <title>ogpt广告自动点击站点</title>
+        <author>
+            <name>52pic</name>
+        </author>
+        <link href="https://52pic.github.io/ogpt-guang-gao-zi-dong-dian-ji-zhan-dian.html"/>
+        <id>https://52pic.github.io/ogpt-guang-gao-zi-dong-dian-ji-zhan-dian.html</id>
+            <category term="挂机赚钱"/>
+            <category term="挂机网赚"/>
+            <category term="广告点击"/>
+            <category term="免费挂机"/>
+            <category term="PTC站点"/>
+
+        <updated>2020-07-16T21:17:05+08:00</updated>
+            <summary>
+                <![CDATA[
+                    广告数量：13个广告值：4x $0.04, 4x $0.004, 2x $0.001, 3x $0.0005最低付款额： $0.99付款方式：Perfect Money, Payeer, Skrill, Neteller, Btc每天收入：$0.18付款间隔：7天 注册地址：https://52pic.top/PTC/333/
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <div>广告数量：<strong>13个</strong></div>
+<div>广告值：<strong>4x $0.04, 4x $0.004, 2x $0.001, 3x $0.0005</strong></div>
+<div>最低付款额： <strong>$0.99</strong></div>
+<div>付款方式：<strong>Perfect Money, Payeer, Skrill, Neteller, Btc</strong></div>
+<div>每天收入：<strong>$0.18</strong></div>
+<div>付款间隔：<strong>7天</strong></div>
+<div> </div>
+<div>注册地址：<a href="#INTERNAL_LINK#/post/null">https://52pic.top/PTC/333/</a></div>
+            ]]>
+        </content>
+    </entry>
+</feed>

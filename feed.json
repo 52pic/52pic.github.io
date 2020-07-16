@@ -1,0 +1,33 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "52图资源",
+    "description": "",
+    "home_page_url": "https://52pic.github.io",
+    "feed_url": "https://52pic.github.io/feed.json",
+    "user_comment": "",
+    "icon": "https://52pic.github.io/media/website/logo.png",
+    "author": {
+        "name": "52pic"
+    },
+    "items": [
+        {
+            "id": "https://52pic.github.io/ogpt-guang-gao-zi-dong-dian-ji-zhan-dian.html",
+            "url": "https://52pic.github.io/ogpt-guang-gao-zi-dong-dian-ji-zhan-dian.html",
+            "title": "ogpt广告自动点击站点",
+            "summary": "广告数量：13个广告值：4x $0.04, 4x $0.004, 2x $0.001, 3x $0.0005最低付款额： $0.99付款方式：Perfect Money, Payeer, Skrill, Neteller, Btc每天收入：$0.18付款间隔：7天 注册地址：https://52pic.top/PTC/333/",
+            "content_html": "<div>广告数量：<strong>13个</strong></div>\n<div>广告值：<strong>4x $0.04, 4x $0.004, 2x $0.001, 3x $0.0005</strong></div>\n<div>最低付款额： <strong>$0.99</strong></div>\n<div>付款方式：<strong>Perfect Money, Payeer, Skrill, Neteller, Btc</strong></div>\n<div>每天收入：<strong>$0.18</strong></div>\n<div>付款间隔：<strong>7天</strong></div>\n<div> </div>\n<div>注册地址：<a href=\"#INTERNAL_LINK#/post/null\">https://52pic.top/PTC/333/</a></div>",
+            "author": {
+                "name": "52pic"
+            },
+            "tags": [
+                   "挂机赚钱",
+                   "挂机网赚",
+                   "广告点击",
+                   "免费挂机",
+                   "PTC站点"
+            ],
+            "date_published": "2020-07-16T21:17:05+08:00",
+            "date_modified": "2020-07-16T21:17:05+08:00"
+        }
+    ]
+}
